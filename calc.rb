@@ -26,3 +26,6 @@ my_age_in_seconds = (((((60 * 60) * 24) * 7) * 52) * 27)
 # 36.88 ~ 36 or 37 years old
 # when he first started writing 800 million seconds he was
 # 25 years old
+
+
+# irb
